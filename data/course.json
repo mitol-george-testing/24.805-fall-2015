@@ -1,0 +1,28 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy",
+      "Epistemology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "2581e92b-4c42-9c65-dc0f-b1bd4dd81cf0",
+      "6e419183-531e-bf76-bc44-26e5c63d059e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Topics in Epistemology: Self-Knowledge",
+  "course_description": "This course is a graduate seminar surveying recent work on self-knowledge. Some questions that will be explored and discussed are: What is the distinctive philosophical interest of self-knowledge? Is self-knowledge really an _epistemic_ achievement? Is it plausible that there is a uniform explanation of all distinctively first-personal self-knowledge?\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.805",
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
